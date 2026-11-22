@@ -2,3 +2,4 @@ Hello GitHub! This is my first push from DataMites.
 
 Day 1 PRICE = 500
 Day 2 PRICE = 1500
+Day 3 PRICE = 2500
